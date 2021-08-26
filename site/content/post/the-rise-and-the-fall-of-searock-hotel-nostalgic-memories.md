@@ -1,0 +1,70 @@
++++
+author = "Bandra Info"
+categories = ["featured", "HISTORY", "HOTELS"]
+date = 2017-05-17T18:11:00Z
+description = ""
+draft = false
+image = "https://digitalpress.fra1.cdn.digitaloceanspaces.com/683e2qm/2021/07/searock-demolition.jpg"
+slug = "the-rise-and-the-fall-of-searock-hotel-nostalgic-memories"
+summary = "SeaRock Hotel was Bandra’s pride. It was the first five star deluxe hotel in a suburban area. Standing proud on the extreme tip of land’s end with an exhilarating view of the Arabian Sea. It was the Crown of the Queen (of surburbs)"
+tags = ["featured", "HISTORY", "HOTELS"]
+title = "The Rise and the Fall of SeaRock Hotel - Nostalgic Memories."
+
++++
+
+
+<p><figure style="width: 270px" class="wp-caption alignright"><a href="https://i0.wp.com/bandra.info/wp-content/uploads/2017/05/Screen-Shot-2017-05-17-at-6.08.42-PM_full.png?ssl=1"><img loading="lazy" class="alignright" src="https://i2.wp.com/bandra.info/wp-content/uploads/2017/05/Screen-Shot-2017-05-17-at-6.08.42-PM.png?resize=270%2C215&#038;ssl=1" width="270" height="215" align="right" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">pic courtesy filmapia.com</figcaption></figure></p>
+<p dir="auto"><strong>By Andrea Rangnekar<br />
+</strong><br />
+SeaRock Hotel was Bandra’s pride. It was the first five star deluxe hotel in a suburban area. Standing proud on the extreme tip of land’s end with an exhilarating view of the Arabian Sea. It was the Crown of the Queen (of surburbs).</p>
+<blockquote><p>The revolving restaurant was the talk of the town.</p></blockquote>
+<p dir="ltr">SeaRock opened in 1978 in collaboration with the Welcomegroup of the ITC chain. Later on in 1980s it tied up with the prestigious Sheraton and called as the Welcomegroup SeaRock Sheraton.</p>
+<p dir="ltr">It was a proud day of my life to be selected for the first job of my career to work at the offices of this prestigious Welcomegroup SeaRock Sheraton. I assisted at the owner’s office in the computer dept., working with the Luthrias; assisting Mr Girdhalilal Luthria fondly called GB. An intelligent man with keen business acumen, needless to say and a calm composed disposition with a smiling face. He was a thorough gentleman with two lovely children Umesh and Nita. Umesh followed in his father’s footsteps, a jovial person full of bounce and a business enthusiast. Girdharilal was one of the 4 brothers who owned SeaRock the other 3 being Udharam (UB), Shyam(SB) and Manohar(MB). UB was the eldest of the 4 with 2 sons Kishore and Mahesh; SB with 1 son Deepak; Manohar with 2 sons Vivek and Kabir.</p>
+<p dir="ltr">SeaRock boasted of its high class coffee shop, The Oceanic which had the ambiance to relax and unwind. The food at Dum Pukht was delicious. Dum Pukht had the prestige of its inauguration party being attended by late Sunil Dutt, the Ambans, Khushwant Singh.</p>
+<p>The banquet hall, the business centre and the Executive Lounge of SeaRock gave it the tag of a Business Hotel.The Dubbing Studio for films attracted a different talent. It was indeed a fascinating peek into the intricacies of film-making. SeaRock was a hub for film stars in every way. To relax or socialize or have business dealings and a home to airline crew.</p>
+<p dir="ltr">I quote an excerpt of an article published on May 6, 2009 by Business Standard depicting the Glory of SeaRock.</p>
+<p><em>In the early eighties, it introduced Bombay to several firsts, including a frontier restaurant called “The Earthen Oven”, the rooftop revolving restaurant “The Palace of the West Empress”, known for its Chinese cuisine, the popular coffee shop “The Oceanic” and a vegetarian restaurant “Vega”. Its Playmate Club was a gathering place with a somewhat less salubrious reputation, but it was where the film fraternity and its financers — in those days the underworld — probably met. Several Welcomgroup hoteliers — Dammi Sabherwal, Channi Pantal, Anil Channa — cut their teeth managing the SeaRock.</em></p>
+<p dir="ltr"><em>The Sheraton relationship came later, at a time when though room rack rates were still sub-Rs 2,000, a two-year, Rs 25-crore renovation programme saw its transition, recounts veteran hotelier Sarabjeet Dhawan who was general manager from 1989 to 1992, “from just a film-frat hotel to a business hotel.” He remembers it as a glittering property designed by Kiran Patki — “what might seem commonplace today, but was pioneering then” — introducing, for the first time in the city, different categories of rooms and suites, and a business centre and executive lounge on its 15th floor. Vega and The Earthen Oven gave way to Habib Rehman’s Dum Pukht and the inauguration party was the talk of Bombay, attended by Sunil Dutt, the Ambani family, Khushwant Singh…</em><br />
+<cite><em> &#8211; via <a href="https://www.business-standard.com/article/beyond-business/no-more-searock-by-the-sea-rock-109050600085_1.html">www.business-standard.com</a></em><br />
+</cite></p>
+<p dir="ltr">
+However the Arabian Sea is not always soothing, calm and peaceful. Stormy days arrived when its waves lashed with all its rage on the sea rock(s).</p>
+<p><a href="https://i2.wp.com/bandra.info/wp-content/uploads/2017/05/hotel-sea-rock-can-be-seen-from-the-construction-site-of-the-bandra-ET0HWE_full.jpg?ssl=1"><img loading="lazy" class="aligncenter" src="https://i2.wp.com/bandra.info/wp-content/uploads/2017/05/hotel-sea-rock-can-be-seen-from-the-construction-site-of-the-bandra-ET0HWE.jpg?resize=850%2C624&#038;ssl=1" width="850" height="624" align="middle" data-recalc-dims="1" /></a></p>
+<p dir="ltr">1993 – I was living abroad then. The news of the serial bombings in Mumbai sent its shockwaves to NRIs all over the world. That SeaRock was a target pained my heart. I had a bond with this hotel. I held fond memories of the owners and my colleagues.</p>
+<h3>The downfall of SeaRock had begun…</h3>
+<p><em>The bomb blasts in the 1993 riots that crippled the property now seem out of an Arthur Hailey novel. The building was endangered, the lift well was skewed out of alignment, the revolving restaurant no longer revolved, the floors were damaged and considered dangerous. Remembers Welcomgroup old-timer Shona Adhikari, “Only the fourth floor remained functional with 10 to 12 rooms, and we had to climb the stairs to our rooms when we visited Bombay.” Tea/coffee makers were provided in the rooms to tide over F&amp;B crisis, though the coffee shop stayed open, at least notionally.</em><br />
+<em><cite> &#8211; via <a href="https://www.business-standard.com/article/beyond-business/no-more-searock-by-the-sea-rock-109050600085_1.html">www.business-standard.com</a></cite></em></p>
+<h3>Would SeaRock be salvaged?</h3>
+<p><em>When in 2005, Suresh Nanda of Claridges Hotels and Resorts bought the SeaRock property for Rs 300 crore, it was assumed that they would bring down the building and replace it with a new one, though the headache was in dealing with city regulations that made fresh construction on the promontory overlooking the sea near-impossible. The delay since then might account for this, but in January this year the group signed an agreement with the Taj group (which has the Taj Lands End located diagonally across the road) to offer it technological and operational advice. Currently, though, with the Taj group not commenting on the takeover talks, it appears likely that it might end up with a majority stake in what was once its competitor. Whatever the outcome, one thing is for sure — both the landmark silhouette as well as its history seem consigned to the past.</em><br />
+<em><cite> &#8211; via <a href="https://www.business-standard.com/article/beyond-business/no-more-searock-by-the-sea-rock-109050600085_1.html">www.business-standard.com</a></cite></em></p>
+<h3>April 22, 2015 published by Business Line gives the latest insight into whereabouts of SeaRock</h3>
+<p><em>Six years after Indian Hotels Company Ltd (IHCL), a Tata Group firm, acquired the landmark Sea Rock Hotel in Bandra, a Mumbai suburb, Chief Executive Rakesh Sarna is optimistic that a legal dispute over the property could be resolved soon, and that the company would be able to develop the asset.</em></p>
+<p><em>In June 2009, IHCL had announced the purchase of a majority stake (85 per cent) in ELEL Hotels and Investments, which owned the Sea Rock hotel, for ₹680 crore. IHCL already owns the Taj Lands End hotel, across the road from Sea Rock hotel. The reconstruction plan was aimed at fully integrating Sea Rock with Lands End in a synchronised manner.</em></p>
+<p><em>In 2010, IHCL had shifted its investment in ELEL into a special purpose vehicle. IHCL had the option to take the asset back on its balance sheet in three years. Subsequently, a public interest litigation (PIL) was filed in the Mumbai High Court challenging the additional floor space of the project.</em></p>
+<p><em>“The level of activity has picked up at Sea Rock, and that is why we have thought it fit to bring the transaction on to our balance sheet,” Sarna told reporters. “Hopefully, we will bring this (litigation) to some sort of conclusion either way this fiscal,” he added.</em></p>
+<p><em>The Sea Rock hotel had suffered severe damage in the 1993 Mumbai bomb blasts. In 2005, it was acquired by the Claridges Group, owned by industrialist Suresh Nanda. Stating that the company was “trying to overcome the issue, given the available floor space index (FSI) norms,” Sarna added the matter was sub judice.</em></p>
+<p><em>Clear permits</em></p>
+<p><em>Asked about regulatory clearances, Sarna said an environment permit was still pending. “We need 24 permits, of which 23 are taken care of,” he said.</em></p>
+<p><em>The CEO maintained that the focus would be on progression at IHCL, and that he would not speculate if PAT (profit after tax) was two years away or later. “We are focussed on showing progression, in the way we have more cash, and how we can simultaneously use that new resource to build the pipeline, and improve profitability,” he said.</em></p>
+<p><em>Stating that his biggest anxiety was the perishable nature of developmental opportunities, the CEO added the number of opportunities (hotels) would reduce over time. “We will soon be oversaturated. Prime locations will be gone. I want to make sure that we don’t lose our prime locations,” he said.</em></p>
+<p><em>Sarna added though the key is progression, it is “critical to have your balance sheet in order, to see the opportunities that are coming your way. We also need to protect the sanctity of our asset at Land’s End (Bandra).”</em><br />
+<em><cite> &#8211; via <a href="https://www.thehindubusinessline.com/companies/indian-hotels-optimistic-of-settling-sea-rock-dispute/article7129881.ece">The Hindu Business Line</a></cite></em></p>
+<p><a href="https://i1.wp.com/bandra.info/wp-content/uploads/2017/05/hotel-sea-rocks-saga-sapped-the-luthria-family-that-owned-it_full.jpg?ssl=1"><img loading="lazy" class="aligncenter" src="https://i1.wp.com/bandra.info/wp-content/uploads/2017/05/hotel-sea-rocks-saga-sapped-the-luthria-family-that-owned-it.jpg?resize=671%2C503&#038;ssl=1" width="671" height="503" align="middle" data-recalc-dims="1" /></a>GB Luthria (pic courtesy https://economictimes.indiatimes.com)</p>
+<h3>What happened to the Luthria family ?</h3>
+<p dir="ltr">The 1993 bomb blasts blasted the family apart as well.</p>
+<p><em>Its renovation got mired in the dispute between the Luthria brothers, which landed up in court. UB Luthria and GB Luthria sold their controlling 70% stake to the Nandas.</em></p>
+<p><em>On the other hand SB Luthria had sold his shares to Mumbai-based developer Vicky Oberoi’s Skydeck Properties</em><br />
+<em><cite> &#8211; via <a href="https://www.dnaindia.com/mumbai/report-sea-rock-development-waits-for-green-signal-1374509">dna</a></cite></em></p>
+<p dir="ltr">A long drawn legal combat that lasted 14 years between EHIL (Elel Hotels and Investment Limited set up In 1968, by the Luthria brothers), which built Sea Rock and ITC Welcomgroup, drained the family. Eventually an out-of-court settlement was arrived at.</p>
+<p><em>The stress and financial dealings drove apart the Luthrias, once a joint family. In November 2013, just when it seemed the saga was over, Shyam, 79, was murdered by his son Deepak in Goa. The cause, reportedly, was Deepak&#8217;s exclusion from his father&#8217;s will. Deepak confessed to the killing and is in custody.</em></p>
+<p><em>&#8220;The bomb blast struck us like lightning. The next 14 years were torturous for the family,&#8221; says Manohar, the youngest of the brothers. &#8220;We spent more time in courts than at home.&#8221;</em></p>
+<p><em>On the family feud, Girdharilal says philosophically, &#8220;No one was wrong or right. Everyone had different views.&#8221; About his brother&#8217;s murder, he adds, &#8220;The boy did it in a fit of anger.&#8221; Besides this, the family doesn&#8217;t have much to say about the incident.</em></p>
+<p><em>The eldest brother, Udharam, passed away last year after a prolonged illness. Since 2005, Girdharilal has been engaged in philanthropy. He is also president of the Lions Club of Sujok in Mumbai.</em></p>
+<p><em>Most members of the family are back to being cordial with one another, with some even starting new ventures.</em></p>
+<p><em>Udharam&#8217;s sons Kishore and Mahesh and daughter Kiran run Searock Developers, a real estate firm. Girdharilal&#8217;s son Umesh is the CEO and executive director of Mumbai-based Apodis Hotels and Resorts. Manohar&#8217;s sons Vivek and Kabir are the owners of Kino Group, a restaurant business that operates many eateries in Mumbai.</em></p>
+<p><em>&#8220;Our generation has seen it all,&#8221; says Kabir. &#8220;Riches to rags and now back to riches&#8221;.</em></p>
+<p><em><cite> &#8211; via <a href="https://economictimes.indiatimes.com/magazines/panache/hotel-sea-rocks-saga-sapped-the-luthria-family-that-owned-it/articleshow/33113210.cms">The Economic Times</a></cite></em></p>
+<p>Well, ALL’S WELL THAT ENDS WELL… isn’t it ? ☺</p>
+
+
+

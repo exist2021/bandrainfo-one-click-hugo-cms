@@ -1,0 +1,48 @@
++++
+author = "Bandra Info"
+categories = ["COMMUNITY", "PROFESSIONAL PHOTOGRAPHER", "STREET ART"]
+date = 2017-06-03T11:49:00Z
+description = ""
+draft = false
+image = "__GHOST_URL__/content/images/wordpress/2017/06/1496471078_featured.jpeg"
+slug = "interview-with-street-photographer-craig-boehman"
+tags = ["COMMUNITY", "PROFESSIONAL PHOTOGRAPHER", "STREET ART"]
+title = "Interview with Street Photographer Craig Boehman"
+
++++
+
+
+<p dir="auto">There is something about streets. I love to walk the streets. My favourite one in Bandra is the Bazaar Road walk. I stumbled on a video of Craig Boeheman’s <a href="httpss://www.streettog.org/single-post/2017/05/28/Mumbai-Street-Photography-May-27-2017" target="_blank" rel="noopener">video on this walk</a>, and immediately sent him an email for an interview. We have our own Bandra Boy Firoze Shakir who does some excellent street photography.</p>
+<blockquote><p><strong>Here is a interview to understand what drives Street Photographer like Craig to do what they do</strong></p></blockquote>
+<p dir="auto"><a href="https://i2.wp.com/powai.info/wp-content/uploads/2017/06/mynKV2xB_400x400_full.jpg?ssl=1"><img loading="lazy" class="alignright" src="https://i1.wp.com/powai.info/wp-content/uploads/2017/06/mynKV2xB_400x400.jpg?resize=250%2C250&#038;ssl=1" width="250" height="250" align="right" data-recalc-dims="1" /></a><br />
+<strong>1) What made you dedicate yourself to becoming a professional street photographer? </strong></p>
+<p dir="ltr">I don’t really consider myself a professional street photographer, just a pro photographer. The distinction is that I really don’t have clients who hire me to take street photos, but sometimes people buy them from me for various purposes. But what got me into street photography as a genre is the very adventure of it, the physical exercise, the interaction with people, the great outdoors. When I discovered that this was a real genre that photographers were really passionate about I was on board from the first day of discovery. It’s an addiction now as much as it is an obsession. I simply love doing it, especially in India.</p>
+<p><figure style="width: 1024px" class="wp-caption aligncenter"><a href="https://i2.wp.com/powai.info/wp-content/uploads/2017/06/Bandstand-Portrait-Of-Young-Beggars_full.jpg?ssl=1"><img loading="lazy" class="aligncenter" src="https://i1.wp.com/powai.info/wp-content/uploads/2017/06/Bandstand-Portrait-Of-Young-Beggars.jpg?resize=850%2C567&#038;ssl=1" width="850" height="567" align="middle" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Bandstand Portrait Of Young Beggars</figcaption></figure></p>
+<p dir="ltr">
+<strong>2) What are the skills (and gear) needed to become a good street photographer?</strong><br />
+Street photographers are known to use just about anything, from phones to large format cameras. Most street guys and gals I know use big brand DSLRs like Canon or Nikon. It doesn’t really matter what you have to start out with because once you do it for a while and research it a little, you will know what camera to get specifically for the job when you’re ready to upgrade. Most veteran street photographers<br />
+though will recommend small compact cameras that don’t draw a lot of attention.</p>
+<blockquote><p>As for skills, a fundamental understanding of photography and the camera settings really go a long way.</p></blockquote>
+<p dir="ltr">I recommend learning basic editing on software like Photoshop too and then work your way up to mastering more advanced photo editing techniques. The more you learn in this arena the more “professional” your images will look. There’s just no getting around it.</p>
+<p><figure style="width: 1024px" class="wp-caption aligncenter"><a href="https://i1.wp.com/powai.info/wp-content/uploads/2017/06/Chimbai-Bay_full.jpg?ssl=1"><img loading="lazy" class="aligncenter" src="https://i1.wp.com/powai.info/wp-content/uploads/2017/06/Chimbai-Bay.jpg?resize=850%2C567&#038;ssl=1" width="850" height="567" align="middle" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Chimbai Bay</figcaption></figure></p>
+<p dir="ltr"><strong>3) Tell us something about yourself, how long you have been in India and where are your favourite places to do street photography in the world?<br />
+</strong>I moved from the U.S. to India just over three years ago. My wife is Bengali, and we’ve settled in Mumbai because that’s where the work is. When I first came here I was doing freelance writing but I’ve since jumped ship and now focus primarily on photography.</p>
+<p>In all honesty, my favorite places to shoot street photography has got to be India in general, where I first discovered street photography. The primary reason is that there are just so many people out on the streets during daylight hours that I’ll never run out of subjects. Back in the U.S., the streets seem almost deserted to me now. I’m afraid if I ever move back I’ll be extremely bored even though I know there are plenty of street photographers and images that speak to the contrary.</p>
+<p><figure style="width: 1024px" class="wp-caption aligncenter"><a href="https://i2.wp.com/powai.info/wp-content/uploads/2017/06/Bandstand-Disparity_full.jpg?ssl=1"><img loading="lazy" class="aligncenter" src="https://i1.wp.com/powai.info/wp-content/uploads/2017/06/Bandstand-Disparity.jpg?resize=850%2C567&#038;ssl=1" width="850" height="567" align="middle" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Bandstand Disparity</figcaption></figure></p>
+<p dir="ltr"><strong>4) Finally, I see you spending a lot of time in Bandra? Could you share with us a few images and talk about Bandra or any anecdote about photographing Bandra streets? </strong><br />
+I love Bandra. Who doesn’t? It was the first neighborhood I moved to in India so my first impressions of Mumbai and of India were formed there. I still visit as often as I can but it’s difficult with all the Mumbai metro construction – the traffic and travel times are just terrible from up in Malad where I am.</p>
+<p dir="ltr">What’s interesting for me about shooting street in Bandra is the economic disparity, which is really on parade at Bandstand. Along the rocky shoreline you have some of my most down-trodden human beings trying to eek out an existence. Up on the promenade you’ll see all kinds of people, especially in the morning and evenings when it’s not so hot. But you’ll see primarily what we Americans would consider the working or middle class.</p>
+<p dir="ltr">Of course, the crowd is often more diverse than this, but what isn’t diverse a few yards off the promenade and street are those individuals who can afford the real estate, the Bollywood A-listers and business elites with their private buildings and multi-million dollar homes.</p>
+<blockquote><p>I’ve never seen anywhere else in the world all classes represented so vividly within a stone’s throw of one another. And that for me is one of the amazing things about Bandra and what makes it such a joy shooting there; it’s just very diverse.</p></blockquote>
+<p>&nbsp;</p>
+<p dir="ltr">I’ll likely be going back this week for more shooting! It’s not easy staying away.</p>
+<p><figure style="width: 1024px" class="wp-caption aligncenter"><a href="https://i1.wp.com/powai.info/wp-content/uploads/2017/06/My-good-Bandra-friend-Firoze-Shakir_full.jpg?ssl=1"><img loading="lazy" class="aligncenter" src="https://i1.wp.com/powai.info/wp-content/uploads/2017/06/My-good-Bandra-friend-Firoze-Shakir.jpg?resize=850%2C567&#038;ssl=1" width="850" height="567" align="middle" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">My good Bandra friend Firoze Shakir.jpg</figcaption></figure></p>
+<p dir="ltr"><strong>5) What are future plans? Hope there is a book? Or a documentary?</strong><br />
+I will be putting out at least an e-book and maybe a limited edition collection of my current street photography project called #3StrangersAday. Essentially, I’m shooting three images of strangers every day for the entire year. So by year’s end I should have 1,095 images. Obviously, an electronic format book will be the cheapest to put out so this will be more likely than a physical book of several hundred pages. As for a standard photo book I think I’m putting that future project on the back burner until I have a larger body of work to pool from.</p>
+<p dir="ltr">As for documentary work, I had been doing some of this in Kolkata about a railroad colony located near the Dhakuria Bridge. I’ve been photographing the people there for the past two years and eventually would like to do a series of portraits of the people living there.</p>
+<p dir="ltr">Otherwise, I’m pursuing commercial clients and shooting portraits as well on the professional side of things. I’ll be working on putting together a portfolio of of some of the models I’ll be shooting and want to pursue lifestyle and travel assignments. Essentially, I want to earn a decent living doing photography in whatever guise necessary. But street photography will always be my favorite genre.</p>
+<p>One thing I will be doing is keeping my photography life a relatively open book. You can always see what I’m up to at my blog on my website <a href="https://www.streettog.org/" target="_blank" rel="noopener">www.Streettog.org</a> or on <a href="httpss://twitter.com/craigboehman" target="_blank" rel="noopener">Twitter</a>.</p>
+<p><a href="https://i1.wp.com/bandra.info/wp-content/uploads/2017/06/Bandstand-Lovers_full.jpg?ssl=1"><img loading="lazy" class="aligncenter" src="https://i2.wp.com/bandra.info/wp-content/uploads/2017/06/Bandstand-Lovers.jpg?resize=850%2C567&#038;ssl=1" width="850" height="567" align="middle" data-recalc-dims="1" /></a></p>
+
+
+

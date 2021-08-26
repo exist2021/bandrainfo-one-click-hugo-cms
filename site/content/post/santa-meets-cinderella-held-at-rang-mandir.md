@@ -1,0 +1,25 @@
++++
+author = "Manju Sampat"
+categories = ["EVENTS", "Rang Mandir"]
+date = 2018-12-05T16:36:21Z
+description = ""
+draft = false
+image = "__GHOST_URL__/content/images/wordpress/2018/12/IMG-20181203-WA0004_01b8caa0fb507fbc0f71cb2761627776_2000.jpg"
+slug = "santa-meets-cinderella-held-at-rang-mandir"
+tags = ["EVENTS", "Rang Mandir"]
+title = "Review of SANTA MEETS CINDERELLA! held at Rang Mandir"
+
++++
+
+
+<p>Children had a ball this weekend at Bandra’s <a target="_blank" href="https://www.justdial.com/entertainment/play-comedy/Santa-meets-Cinderella-Broadway-Musical/Mumbai/EV442382">Rang Mandir</a> as they sat spellbound and watched the musical SANTA MEETS CINDERELLA! In perfect time for the Christmas season, Vishal Asrani and his Institute of Performing Arts are regaling Mumbai audiences and especially children, with their wonderful production of this original musical.</p>
+<h2>SANTA MEETS CINDERELLA, is a fairy tale with a twist.</h2>
+<p>Vishal Asrani and Jiji Subi, the writers and directors of this this very ingenious story, ensure that the audience is totally enthralled by their colourful and creative production. They have cleverly mixed the spirit of Christmas which is a season of joy and cheer and Santa and his helpers, together with the the well loved fairy tale Cinderella. The result is a refreshing tale of hope, love, and magic, complete with Christmas carols, Santa’s village, and a magic kingdom with its own Prince and a palace ball! Every story teaches us something important and this classic story about Cinderella teaches us that anything is possible with the the power of belief and the magic of love.</p>
+<h2>Broadway style musical</h2>
+<p>This Broadway style musical, comes with not one but many delightful twists. Set during Christmas, this adaptation of Cinderella meets Santa begins in Santa’s village in the North Pole. His helpers Jingles(Jiji Subi) and Tingles (Avantika Kampani), who are both excellent in their respective roles, take a supersonic jet to Blossomdale, where they encounter a young girl named Amanda. She is poor and is upset and sad at not having any money to buy Christmas gifts for her friends. Jingles and Tingles tell her that gifts cannot always be measured by their monetary value. Instead she could write a play and get her friends to act in it, and that could be her Xmas gift to them! Amanda loves the idea, and she gets her friends to enact the Cinderella story. This story within a story also has many twists. For one the fairy godmother who changes a pumpkin into a carriage to take Cinderella to the ball, is Mrs. Santa and she comes to Cinderella’s aid with Santa himself. Tia Advani makes a charming Cinderella and her step sisters Mercedes and Bentley are the epitome of meanness. Neelima Mehra is aptly cast as the step mom and her rendition of the catchy song “ you got work to do”, is excellent. Everyone knows how the Cinderella story ends and here too it is her goodness that wins over not just the Prince&#8217;s heart but also her step mother’s and stepsisters’! The finale has the cast singing all the familiar carols like ‘Rudolph the red nosed Reindeer’ and ‘Jingle bells’.</p>
+<figure class="image regular"><picture style=""><source srcset="https://d2ijz6o5xay1xq.cloudfront.net/account_4266/IMG-20181203-WA0005-1_58fefa8aaa6b65239b9a94e2ebea8248_800.jpg 1x" media="(max-width: 768px)"><source srcset="https://d2ijz6o5xay1xq.cloudfront.net/account_4266/IMG-20181203-WA0005-1_58fefa8aaa6b65239b9a94e2ebea8248_800.jpg 1x" media="(min-width: 769px)"><img style="" alt="SANTA MEETS CINDERELLA! held at Rang Mandir" src="https://i1.wp.com/d2ijz6o5xay1xq.cloudfront.net/account_4266/IMG-20181203-WA0005-1_58fefa8aaa6b65239b9a94e2ebea8248_800.jpg?w=850&#038;ssl=1" data-recalc-dims="1"></picture></figure>
+<p>One normally associates children’s theatre as having the production value of a school play. However, SANTA MEETS CINDERELLA is a thoroughly professional show of the highest order. With its great LED set projections, beautiful props, wonderful music and lighting, it can compete with any show anywhere. The costumes designed by Vishal Asrani and Jiji Subi and the Big Mama Studio in Bangkok are really striking. Don’t miss the shows on Dec 8th and 9th at Sophia Bhabha hall.</p>
+<p><!-- strchf script --><script>        if(window.strchfSettings === undefined) window.strchfSettings = {};    window.strchfSettings.stats = {url: "https://urban-wiz.storychief.io/santa-meets-cinderella-held-at-rang-mandir?id=1770210747&type=2",title: "Review of SANTA MEETS CINDERELLA! held at Rang Mandir",id: "5898643e-cb57-4197-adf1-22d855b8bf1d"};            (function(d, s, id) {      var js, sjs = d.getElementsByTagName(s)[0];      if (d.getElementById(id)) {window.strchf.update(); return;}      js = d.createElement(s); js.id = id;      js.src = "https://d37oebn0w9ir6a.cloudfront.net/scripts/v0/strchf.js";      js.async = true;      sjs.parentNode.insertBefore(js, sjs);    }(document, 'script', 'storychief-jssdk'))    </script><!-- End strchf script --></p>
+
+
+

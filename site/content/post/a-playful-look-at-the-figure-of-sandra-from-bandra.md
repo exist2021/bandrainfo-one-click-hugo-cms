@@ -1,0 +1,37 @@
++++
+author = "Bandra Info"
+categories = ["COMMUNITY", "VIDEOS"]
+date = 2013-04-01T06:42:11Z
+description = ""
+draft = false
+slug = "a-playful-look-at-the-figure-of-sandra-from-bandra"
+tags = ["COMMUNITY", "VIDEOS"]
+title = "A playful look at the figure of 'Sandra from Bandra'"
+
++++
+
+
+<p><iframe width="620" height="415" src="httpss://www.youtube.com/embed/ZnsAjSZSzUw" frameborder="0" allowfullscreen></iframe><br />
+Who’s Sandra? If you saw her would you know here? Is she naughty or nice? And where is she, anyway? The film is a playful look at the figure of “Sandra from Bandra” – part covetous fantasy of the racy Christian girl from Bombay who works as a secretary, wears a dress and likes to dance; part condescending stereotype of a dowdy, religious girl from a minority community. The film searches for Sandra in Bollywood films, in the words of writers and poets and the stones in church graveyards. We encounter various claimants to the title – some who aren’t called Sandra and some who aren’t even from Bandra – until finally finding 5 women really called Sandra who are all as different from each other as can be even if they are a little bit the same.</p>
+<p>[box]</p>
+<p>The movie was produced by Celebrate Bandra Trust</p>
+<p><b><a href="https://i1.wp.com/bandra.info/wp-content/uploads/2013/04/CelebrateBandra_Logo.png?ssl=1"><img loading="lazy" class="alignright size-full wp-image-321" alt="CelebrateBandra_Logo" src="https://i1.wp.com/bandra.info/wp-content/uploads/2013/04/CelebrateBandra_Logo.png?resize=231%2C178&#038;ssl=1" width="231" height="178" data-recalc-dims="1" /></a>Celebrate Bandra</b> is the biennial cultural festival of Bandra, Mumbai that showcases the best the suburb has to offer in heritage, music, sport, theatre, literature &amp; poetry, food, art and film. It is an initiative of the Celebrate Bandra Trust and Fountainhead Promotions &amp; Events Pvt. Ltd. Darryl D&#8217;monte is the Chairman and Convenor of the two-week-long festival. The 2011 edition of the action-packed festival saw over 100 events from November 12 to November 27, 2011.<sup id="cite_ref-1"><br />
+</sup></p>
+<p>The festival contributes towards a better quality of life for Bandra residents. In the past, the festival has sponsored a rainwater harvesting project, a solar water heating project, school buses for an orphanage and a school for underprivileged children. It also donated a bus to the Kripa Foundation.</p>
+<p>For more info on the movie  go here <a href="https://www.parodevi.com/?p=243">https://www.parodevi.com/?p=243</a></p>
+<p>[box]</p>
+<p><a href="https://i0.wp.com/bandra.info/wp-content/uploads/2013/04/paromitavohra.jpg?ssl=1"><img loading="lazy" class="alignright  wp-image-315" alt="paromitavohra" src="https://i0.wp.com/bandra.info/wp-content/uploads/2013/04/paromitavohra.jpg?resize=272%2C362&#038;ssl=1" width="272" height="362" srcset="https://i0.wp.com/bandra.info/wp-content/uploads/2013/04/paromitavohra.jpg?w=453&amp;ssl=1 453w, https://i0.wp.com/bandra.info/wp-content/uploads/2013/04/paromitavohra.jpg?resize=225%2C300&amp;ssl=1 225w" sizes="(max-width: 272px) 100vw, 272px" data-recalc-dims="1" /></a>The movie is directed by Paromita Vohra.</p>
+<p><strong>Paromita Vohra </strong>is a filmmaker, writer and curator whose work has focuses on urban life, popular culture, gender, politics and art. Her films have been widely screened in festivals, galleries and popular screening spaces, besides being included in university syllabi around the world.</p>
+<p>Her films as director are <em>Partners in Crime (2011), </em>a documentary on culture, markets and the arts<em> Morality TV and the Loving Jehad: A Thrilling Tale (2007)</em>, a documentary on tabloid TV news and moral policing(<em>Best Short Documentary, Int.Video Fest, Trivandrum)</em>, <em>Q2P,(2006) </em>a film on toilets and the city <em>(Best Documentary IFFLA and Bollywood and Beyond, Stuttgart)</em>; <em>Where’s Sandra?(2005), </em>a playful exploration of stereotypes of Catholic girls from a Bombay suburb; <em>Work In Progress (2004)</em> an impressionistic portrait of the World Social Forum held in Mumbai; <em>Cosmopolis: Two Tales of a City,(2004), </em>a short film which explores Bombay’s cosmopolitan self image through land and food politics, which won an award for mixing fiction and non-fiction at the Digital Film Festival, <em>Un-limited Girls (2002)</em>, a personal take on engagements with feminism in urban India (<em>Feminist News Award, Women’s Film Festival in Seoul; Best Film Award, Aaina Film Festival, India</em>); <em>A Short Film About Time </em>(2000)<em>, </em>a fiction short about the funny-sad relationship between a young woman with a broken heart, her psychotherapist and his watch;<em>A Woman’s Place,</em>(1999)<em> </em>an hour-length documentary for PBS looking at how women in India, South Africa and the USA negotiate the space between law and custom; and  <em>Annapurna (</em>1995), about a women food worker’s cooperative in Bombay’s textile mill area.</p>
+<p>Retrospectives of her work have been held at the Lille 3000 (2006) festival and Persistence/Resistance (2007), a festival of political documentary in India. Her films have also been screened at the Tate Modern and will feature in an upcoming exhibition at the Wellcome Art Gallery in London.</p>
+<p>Her films as writer are the internationally released feature <em>Khamosh Pani/Silent Waters</em>directed by Sabiha Sumar(Golden Leopard, Locarno Film Festival, 2003, Best Screenplay, Kara Film Festival, 2003), the documentaries <em>A Few Things I Know About Her </em>(Silver Conch, Mumbai International Film Festival 2002), <em>If You Pause: In a Museum of Craft, The Stuntmen of Bollywood </em>and the faux-documentary <em>Skin Deep</em> (dir: Reena Mohan).</p>
+<p>Her writings, fiction and non-fiction have been included in various anthologies, among them <em>Bombay Meri Jaan: Writings on Mumbai, Electric Feather: the Tranquebar Book of Erotica, Recess: The Penguin Book of Schooldays, Dreaming Different: New Feminist Writings from Around the World, Signs (Spring 209) </em>and <em>First Proof: Penguin New Writing from India.</em> She contributes to several publications including Outlook, India Today, Tehelka, Time Out,Mumbai and currently writes a popular column in Sunday Mid-day a Mumbai newspaper.</p>
+<p>She was principal mentor of the British Council-Saregama India Screenwriting Workshop 2008 and teaches writing for film as visiting faculty in numerous universities in India and abroad.</p>
+<p>As part of A Woman’s Place project – a collective of women using media for social change- she has worked extensively with young people through workshops focusing on creativity, politics and media, especially the Girls Media Group, a media exchange project between teen girls in New York and Mumbai. As part of the artist’s collective<a href="https://twitter.com/#!/@Culture">@Culture</a> she has been engaged with making culture an important political part of the World Social Forum process.</p>
+<p>In the past few years she has been curating documentary and alternative film programs from time to time, among them a program on films about the city for the National Gallery of Modern Art (2002) and a program of films from Films Division, the government documentary producer, at the International Video Festival of Trivandrum (2010) as well as a program on the history of the Indian Music video for the Film South Asia festival in Kathmandu (2007).</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>[/box]</p>
+
+
+

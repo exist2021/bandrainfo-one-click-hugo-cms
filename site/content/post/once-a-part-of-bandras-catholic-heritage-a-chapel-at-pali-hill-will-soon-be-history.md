@@ -1,0 +1,41 @@
++++
+author = "Bandra Info"
+categories = ["CHURCHES", "HERITAGE"]
+date = 2013-11-18T06:16:35Z
+description = ""
+draft = false
+image = "__GHOST_URL__/content/images/wordpress/2013/11/1824998.jpg"
+slug = "once-a-part-of-bandras-catholic-heritage-a-chapel-at-pali-hill-will-soon-be-history"
+tags = ["CHURCHES", "HERITAGE"]
+title = "Once a part of Bandra's Catholic heritage, a chapel at Pali Hill will soon be history."
+
++++
+
+
+<p>[box]The original story appeared in DNA on April 21st 2013 by <a href="https://www.dnaindia.com/authors/joanna-lobo">Joanna Lobo</a> . <a href="https://www.dnaindia.com/mumbai/report-mumbai-once-a-part-of-bandra-s-catholic-heritage-a-chapel-at-pali-hill-will-soon-be-history-1824997">Click here</a> to go to the story or read below. [/box]</p>
+<p>JLydia Jacinto, 86, grew up believing Jesus lived in Bandra. As a child, she thought the stations of the cross at the Calvary Chapel on Pali Hill followed the path Jesus took before he was crucified, and that Jesus was buried in the well in the gardens. Every year on the first Friday of Lent, she would go to the foot of the hill and watch the devotees pray and sing, and sometimes walk on their knees up the pathway leading to the chapel on the hill.</p>
+<p>The Chapel of Our Lady of Calvary, also called Calvary Chapel or O’Calvario, was built by the Fonseca family in 1890. The last couple of years, this private chapel and its adjoining house have been lying unused and in ruins. Due to an ongoing family dispute, the property is locked up, protected by security. One half has already been sold to builders.</p>
+<p>There is nothing to indicate that a chapel existed at 37, Pali Hill.  The crosses that dotted the pathway now line a similar path leading to Our Lady of Bethlehem Church, Dongri. The statue of Our Lady of Sorrows, which lay at the bottom of the hill, now adorns the entrance of St Anne’s Church, Bandra. Calvary Chapel exists only in name, history books, and the people’s memories.</p>
+<p><figure id="attachment_4816" aria-describedby="caption-attachment-4816" style="width: 400px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-4816" src="https://i1.wp.com/bandra.info/wp-content/uploads/2013/11/1824998.jpg?resize=400%2C400&#038;ssl=1" alt="The statue of Our Lady of Sorrows that stood at the bottom of the hill leading to Calvary which is now at St Anne's Church, Bandra." width="400" height="400" srcset="https://i1.wp.com/bandra.info/wp-content/uploads/2013/11/1824998.jpg?w=400&amp;ssl=1 400w, https://i1.wp.com/bandra.info/wp-content/uploads/2013/11/1824998.jpg?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/bandra.info/wp-content/uploads/2013/11/1824998.jpg?resize=300%2C300&amp;ssl=1 300w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" /><figcaption id="caption-attachment-4816" class="wp-caption-text">The statue of Our Lady of Sorrows that stood at the bottom of the hill leading to Calvary which is now at St Anne&#8217;s Church, Bandra.</figcaption></figure></p>
+<p><strong>A glorious past</strong><br />
+Back in the day, Calvary Chapel’s steeple could be seen from as afar as Santa Cruz. Teresa Albuquerque, 82, an author and historian who lives Santa Cruz, recalls that between the chapel and her residence lay sprawling paddy fields. “My sister and I would take a walk there in the evening. There was a well, which to us children appeared enormous and scary,” she says. She also remembers a lady who lived above the chapel and was known for her marzipan sweets.</p>
+<p>Albuquerque stopped visiting the chapel after she grew older, but remembers reading about it in history books.</p>
+<p><em>In The Mission Field</em>, a Damaun Diocese publication, has pictures of the chapel. Braz A Fernandes’ Bandra: Its Religious And Secular History mentions Calvary in his chapter on ‘The Minor Chapels’. He writes, “On the crest of the Pali Hill, facing the east, rises the simple structure of the Chapel of Our Lady of Calvary. It was built in 1890 by the Rev. Manoel Anthony and his brother Peter Fonseca, for the convenience of the Catholics of the neighbouring villages. On the 17th of September, 1890, Dom Antonio Pedro da Costa blessed the chapel and declared it open.”</p>
+<p>The Fonseca family was an illustrious family that owned large amounts of property spread across Bandra. The family lived on the upper floor of the chapel and the outhouse, which belonged to the Propaganda jurisdiction (East Indians).</p>
+<p>The chapel belonged to the Diocese of Damaun (which came under Portuguese jurisdiction).</p>
+<p>Mass was held on Sundays and days of obligation by a priest from St Andrew’s Church. “There was a small altar and benches for people to sit. Sunday Mass was at 7 am and people from Chuim and nearby places would come there. If we missed Sunday morning service at St Anne’s, my mother and I would go to Calvary,” Jacinto says.</p>
+<p>Bandra: Its Religious And Secular History mentions that the stations of the cross were inaugurated in 1902 by Dom Sebastio Jose Pereira. That’s when the chapel’s popularity soared.</p>
+<p>Devotees flocked at the chapel to participate in the stations of the cross, led by the Rev Fonseca.</p>
+<p>An old clipping in possession of Floyd Almeida, Peter’s great, great, grandson, mentions: “The whole ceremony resembled just as if the people were actually marching to that Calvary where Our Lord was crucified.” The same clipping goes on to mention how the stations were read in Marathi.<br />
+<strong><br />
+An imperfect future</strong><br />
+Floyd has spent the better part of the last six years attempting to piece together the history of his family and the chapel. “My grandmother mentioned that the statue, which lay at the foot of the hill of Our Lady of Sorrows, was brought from Rome by sea by her uncle,” he says. Floyd’s research led him to old clippings and books on the East Indian community like the East Indian Souvenir and St Anne’s Memorabilia that mention the chapel and the Fonseca family’s contribution to society. “I have a handwritten note, probably by my great grandfather, that details the names of his kin who were buried at the chapel over the years,” he says.</p>
+<p>Major Leon Fonseca, a history buff and also a descendant of the Fonseca family, says the decline began in the mid-1900s. “Earlier, the family had three priests who would take care of the chapel and say Mass there. Then in the 1940s, there was no priest. In the 1970s, when property prices began increasing, the lower part of the Calvary was sold off,” he adds. “It was the only private-chapel at the time that was open to public. It even had the blessed Sacrament within it.”</p>
+<p>Some family members lived on the premises in the 1900s. But with the property in dispute at present, the place is empty now and falling apart. A plaque with an inscription mentioning the name of Peter John Fonseca lies abandoned at the entrance.</p>
+<p>The crosses were transplanted to the Our Lady of Bethlehem Church at Dongri by Fr Rudolph D’Souza, who was the vicar of Dongri in 1965. The surrounding mango, neem and tamarind trees still exist. The graves in which the family’s ancestors were buried were removed in the 80’s and sent to Sewri and Sion.</p>
+<p>A source intimate with the chapel but who wishes to remain unnamed says, “The chapel used to have a crypt below that was cleared out and walled up. The altar was turned into a storeroom. This place became a make-out spot for those who knew about it,” he laments.</p>
+<p>Today, the chapel doesn’t even have a cross to indicate its existence. Most residents are unaware that there existed a chapel there, or that the adjoining Calvary Apartments were named because they overlooked the chapel. Once upon a time, the airport could be seen from the top of the house; today all that can be seen are high-rises.</p>
+<p>For all purposes, Calvary is likely to end up as a footnote in history. If it is pulled down to make way for another high-rise, it will be just another piece of Bandra’s past that turned into dust. But for those associated with it, like Jacinto, it will always remain the place where Jesus once lived, even if it was through the hearts of his followers.</p>
+
+
+

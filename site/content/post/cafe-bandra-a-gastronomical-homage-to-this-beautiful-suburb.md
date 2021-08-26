@@ -1,0 +1,31 @@
++++
+author = "Bandra Info"
+categories = ["16th road", "30th road", "COFFEESHOPS"]
+date = 2017-07-31T14:22:00Z
+description = ""
+draft = false
+image = "__GHOST_URL__/content/images/wordpress/2017/07/1501490993_featured.jpeg"
+slug = "cafe-bandra-a-gastronomical-homage-to-this-beautiful-suburb"
+tags = ["16th road", "30th road", "COFFEESHOPS"]
+title = "Café Bandra - A gastronomical homage to this beautiful suburb"
+
++++
+
+
+<p dir="auto">Familiar as the melting pot of uncanny aspirations, Mumbai is known as the city of dreams. However, the essence of the city is brilliantly captured by the winds of Bandstand to the bylanes of Pali Hill; there is nothing we don’t love about Bandra! Cobbled with fascinating architecture of the new and old, #Mumbai50 is irresistibly charming. With its deep-rooted, homely atmosphere along with the liberal and laid-back vibe, this part of Mumbai does attract a lot of people and is appropriately called &#8220;the Queen of Suburbs&#8221;. Though, when it comes to the population, Bandra’ites are young at heart, joyous and pretty chilled out!</p>
+<p><a href="https://i0.wp.com/bandra.info/wp-content/uploads/2017/07/cafe-Bandra_full.png?ssl=1"><img loading="lazy" src="https://i2.wp.com/bandra.info/wp-content/uploads/2017/07/cafe-Bandra.png?resize=160%2C112&#038;ssl=1" align="right" width="160" height="112" class="alignright" data-recalc-dims="1"></a>After the great success of ‘Bhaijaanz’, Star Hospitality is all set to pay an ode to Bandra with their latest project – Café Bandra. Situated in the heart of suburb, this café settles itself with ease blurring the thin line between casual dining and fine dining. Café Bandra is a gastronomical tribute to Bandra by a gang of friends coming together from different professional backgrounds for their utmost love for food and Bandra.</p>
+<p>With the capacity to seat over 50 guests, this café has an interactive kitchen, a beautiful dining area for family, a designated smoking area and a VIP section. The moment you step in the dining area, you won’t be able to take your eyes off the screw art on the walls. The incredible metal screw art installations represent the iconic buildings and sculptures of Bandra i.e., Sea Link, Bandra Station, Mount Mary Church and Galaxy Apts along with Bandra’ites beloved Chai with Bun Maska. Though, it is the metal screw Map of Bandra with a heart in the centre that truly illustrates the utmost love of the people for #Mumabi50. Basically, this cafe has everything that defines Bandra and Bandra’ites. </p>
+<p>Keeping the interiors funky yet elegant, the café has re-purposing metal artifacts, lush green indoor plants and a glass partition that separates the dining from the smoking area. As for the seating arrangement in the smoking area, there are table for twos and fours with high stools made of pinewoods with customized gorgeous floral velvet covers. The VIP room on the right is a cozy space with a round table for small parties or gatherings. The best part is the huge lustrous #Mumbai50 wall art that immediately grabs your attention. It is a private space with customized window while the exteriors are decorated with cute little plants and flowers.</p>
+<p>Café Bandra is the perfect example of the fact that if there is one thing in this world which can keep people connected, that is food. Woo your taste buds with their signature Coriander Relish Sweet Potato (oven roasted sweet potato served with roasted red pepper pesto, topped with sour cream), binge on Pita Pockets with Butter Chicken (served with hummus and coleslaw), slurp on Zuppa di Fungi (authentic flavor of fungi served with herbed bread and truffle oil) and dig into the super healthy Quinoa with Kale salad (cherry tomatoes, roasted sun flour seed, bean sprout, chickpeas with pomegranate dressing). Savour the all time favourite What Man Bugger (juicy double chicken layered and cheese with fresh lettuce, onion, tomato, and homemade aioli), <br />Bandra Buggers Pizza (fresh pesto marinated chicken, mozzarella and fresh basil), Baby Green Ricotta Ravioli (homemade ravioli stuff with baby greens, ricotta, and pine nuts served with saffron cream sauce), and Spaghetti Bhuna Gosht (traditional bhuna ghost served with aglio-olio spaghetti) are the must-have fusion twists.</p>
+<p><a href="https://i0.wp.com/bandra.info/wp-content/uploads/2017/07/VIP-room_full.jpeg?ssl=1"><img loading="lazy" src="https://i2.wp.com/bandra.info/wp-content/uploads/2017/07/VIP-room.jpeg?resize=850%2C568&#038;ssl=1" align="middle" width="850" height="568" class="aligncenter" data-recalc-dims="1"></a></p>
+<p>Given the culinary richness and scrumptious variety of experiments, sip on the perfect signature mocktails. Be it Bubblelemonade (the tongue twister with a twist of bubblegum and triple sec), Cocolycious (a chilling fog is sure to get you lost in flavors of lychee and coconut) and Cosmopolitan (cranberry juice, triple sec and sweetened lime juice) are the finest mocktails in the café.</p>
+<p>Ecstatic about the launch of Café Bandra, Mr. Husain Mister, co-owner says, “Café Bandra is our gastronomical homage to this beautiful suburb we call home as there are no other cafes in the vicinity that reflects the its true spirit. This isn’t just another café; everything here basically defines Bandra and Bandra’ites.”</p>
+<p>Sharing the thrill of introducing Café Bandra, Mr. Altaf Shaikh, co owner quotes, “With Café Bandra, we wanted to make Bandra’ites feel that it’s not just a cafe but a lane down your memories. A cafe with not just coffee and munchies but the staple dishes of bandra&#8217;s own people. We have strived hard to give the nostalgic feel to Bandra’ites and hope we live up to their expectation.</p>
+<h3>Address:</h3>
+<p dir="ltr">85 Luis Belle CHS LTD. TPS 3 Junction of 16th &amp; 30th Road. Bandra West<br />Mumbai, India<br />Contact: <a href="https://tel://+91 93204 00050" target="_blank">93204 00050</a></p>
+<p>Time: 11:00 AM – 01:30 AM</p>
+<h3>Get Social:</h3>
+<p>Facebook:<a href="https:// httpss://www.facebook.com/cafebandra/" target="_blank">httpss://www.facebook.com/cafebandra/</a><br />Instagram: <a href="https:// httpss://www.facebook.com/cafebandra/" target="_blank">httpss://www.instagram.com/cafebandra/</a></p>
+
+
+

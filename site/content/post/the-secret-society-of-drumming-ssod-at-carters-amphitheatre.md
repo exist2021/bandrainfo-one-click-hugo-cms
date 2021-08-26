@@ -1,0 +1,31 @@
++++
+author = "Bandra Info"
+categories = ["ARTS &amp; CULTURE", "carter road", "EVENTS", "featured", "STREET ART"]
+date = 2015-09-19T23:26:11Z
+description = ""
+draft = false
+image = "__GHOST_URL__/content/images/wordpress/2015/09/IMG_0524.jpg"
+slug = "the-secret-society-of-drumming-ssod-at-carters-amphitheatre"
+tags = ["ARTS &amp; CULTURE", "carter road", "EVENTS", "featured", "STREET ART"]
+title = "The Secret Society of Drumming (SSOD) at Carter's Amphitheatre."
+
++++
+
+
+<p><iframe src="httpss://www.youtube.com/embed/-C19l6fdrOA" width="620" height="415" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p dir="ltr">The Secret Society of Drumming (SSOD) is the brainchild of 3 musicians, Amrut Bhat, Smaran Savanal and Amilo D&#8217;Cruz who met at a drum circle and sought to create an avenue for good LIVE extempore music. They were later joined by Vijay Durbha, Chintan Vyas and Sachin Khasgiwala.</p>
+<p dir="ltr">Amrut brings the tribal flavour in the group with his West African drumming skills. He plays the djembe, dun dun, cajon and other ethnic percussions. His beats match the heartbeats of the audience!.</p>
+<p dir="ltr">Smaran Savanal has been playing tabla since he was barely 3 and also plays a variety of ethnic percussion instruments. He has accompanied a variety of Artists who were exponents of both Hindustani Classical as well as Western music. He has also performed professionally with a fusion band whilst in Singapore and seeks to bridge the gap between various genres of the world. He believes that music is all around us. All we have to do is stop and listen.</p>
+<p dir="ltr">Amilo D&#8217;Cruz is a guitarist, singer and songwriter. He also plays the timbale and thereby brings in a western influence which adds to the ensemble. His music reflects rock n roll, classic rock, metal and blues. He has been performing at various venues for over eight years.</p>
+<p><p class="jetpack-slideshow-noscript robots-nocontent">This slideshow requires JavaScript.</p><div id="gallery-8526-107-slideshow" class="slideshow-window jetpack-slideshow slideshow-black" data-trans="fade" data-autostart="1" data-gallery="[{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2015\/09\/IMG_0518.jpg&quot;,&quot;id&quot;:&quot;8527&quot;,&quot;title&quot;:&quot;IMG_0518&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2015\/09\/IMG_0520.jpg&quot;,&quot;id&quot;:&quot;8528&quot;,&quot;title&quot;:&quot;IMG_0520&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2015\/09\/IMG_0516.jpg&quot;,&quot;id&quot;:&quot;8529&quot;,&quot;title&quot;:&quot;IMG_0516&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2015\/09\/IMG_05241.jpg&quot;,&quot;id&quot;:&quot;8530&quot;,&quot;title&quot;:&quot;IMG_0524&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2015\/09\/IMG_0522.jpg&quot;,&quot;id&quot;:&quot;8531&quot;,&quot;title&quot;:&quot;IMG_0522&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2015\/09\/IMG_0517.jpg&quot;,&quot;id&quot;:&quot;8532&quot;,&quot;title&quot;:&quot;IMG_0517&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2015\/09\/IMG_0538.jpg&quot;,&quot;id&quot;:&quot;8533&quot;,&quot;title&quot;:&quot;IMG_0538&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2015\/09\/IMG_0552.jpg&quot;,&quot;id&quot;:&quot;8534&quot;,&quot;title&quot;:&quot;IMG_0552&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2015\/09\/IMG_0543.jpg&quot;,&quot;id&quot;:&quot;8535&quot;,&quot;title&quot;:&quot;IMG_0543&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;}]" itemscope itemtype="https://schema.org/ImageGallery"></div></p>
+<p dir="ltr">Vijay Durbha is an accomplished &#8216;New Age&#8217; singer and songwriter. He has composed and produced music with renowned artists. He is also proficient at playing the djembe, cajon, hapi and the octopad. He believes that music translates everything for our ears and our hearts.</p>
+<p dir="ltr">Chintan Vyas code name Chintz is an avid music aficionado. A self taught drummer with rhythms in his DNA, he has been a part of underground musical scene in and around Mumbai. A music enthusiast, he follows the likes of Pearl Jam,  BB king, AcDc,  Arctic Monkeys,  Portishead and explores world music to the core.</p>
+<p dir="ltr">Sachin Khasgiwala is an accomplished and distinguished army officer with a love for drumming. He is ever enthusiastic and evinces keen interest in music.</p>
+<p dir="ltr">The Ideology:<br />
+SSOD is an extension of its members who stand for good music and believe that music can be used for a higher and better purpose.</p>
+<p dir="ltr">It will also eventually serve as a Shangri la for those who are keen to learn as well listen to good extempore music. Hence this is a closed, niche group and members are added by invite only. In this manner, the admins wish to ensure that the group remains healthy and vibrant with like minded people.</p>
+<p dir="ltr">SSOD seeks to grow as a vibrant and rejuvenating music jam group for all its members! So here&#8217;s to many more of such jams for a long time to come. Cheers!</p>
+<p>For more pics check <a href="__GHOST_URL__/drumcircle/index.html">https://bandra.info/drumcircle/index.html</a></p>
+
+
+

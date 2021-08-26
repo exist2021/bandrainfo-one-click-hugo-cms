@@ -1,0 +1,26 @@
++++
+author = "Wheels On Our Feet"
+categories = ["29th Road", "featured", "FOOD/BEV", "RESTAURANT REVIEWS"]
+date = 2014-11-13T06:50:37Z
+description = ""
+draft = false
+image = "__GHOST_URL__/content/images/wordpress/2014/11/Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-6.jpg"
+slug = "restaurant-review-indigo-deli-in-bandra-mumbai"
+tags = ["29th Road", "featured", "FOOD/BEV", "RESTAURANT REVIEWS"]
+title = "RESTAURANT REVIEW: INDIGO DELI IN BANDRA."
+
++++
+
+
+<p><p class="jetpack-slideshow-noscript robots-nocontent">This slideshow requires JavaScript.</p><div id="gallery-7229-74-slideshow" class="slideshow-window jetpack-slideshow slideshow-black" data-trans="fade" data-autostart="1" data-gallery="[{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2014\/11\/Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-16.jpg&quot;,&quot;id&quot;:&quot;7230&quot;,&quot;title&quot;:&quot;Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-16&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2014\/11\/Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-5.jpg&quot;,&quot;id&quot;:&quot;7231&quot;,&quot;title&quot;:&quot;Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-5&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2014\/11\/Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-6.jpg&quot;,&quot;id&quot;:&quot;7232&quot;,&quot;title&quot;:&quot;Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-6&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2014\/11\/Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-9.jpg&quot;,&quot;id&quot;:&quot;7233&quot;,&quot;title&quot;:&quot;Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-9&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2014\/11\/Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-12.jpg&quot;,&quot;id&quot;:&quot;7234&quot;,&quot;title&quot;:&quot;Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-12&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2014\/11\/Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-13.jpg&quot;,&quot;id&quot;:&quot;7235&quot;,&quot;title&quot;:&quot;Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-13&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2014\/11\/Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-15.jpg&quot;,&quot;id&quot;:&quot;7236&quot;,&quot;title&quot;:&quot;Restaurant-Review-Indigo-Deli-in-Bandra-Mumbai-15&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;}]" itemscope itemtype="https://schema.org/ImageGallery"></div></p>
+<p>Last evening, we needed, very badly, to save ourselves from Bandra’s infamous Sunday-evening traffic. We were in Pali Naka. Ah, <em>how about Indigo Deli?</em> Yes, Indigo Deli – one of our most favourite restaurant chains in Mumbai. And so, what was meant to be a SOS, also turned out to be a good, deserving, nicely laid out evening and dinner.</p>
+<p><strong>How is the ambience at Indigo Deli in Bandra, Mumbai? </strong>I think Bandra has the best ambience after the first joint at Colaba. As is usual with all of the Delis, their Bandra joint is also stylish, signature décor with as much as the same white flowers in round bowls, open kitchen with the chef in colourful bandanas and lively music. Just the place to unwind over some good wine and food.</p>
+<p><strong>How is the food at Indigo Deli in Bandra, Mumbai? </strong>Now that we have reviewed all of the Indigo Delis (in Colaba, R-City Mall in Ghatkopar, Andheri West), guess, there is nothing different to write about. The guys are very serious about their brand name and hence, ensure they stay uniform in food (taste and quality) and service.</p>
+<p>We ordered from their day’s menu (which is perhaps the best thing to do) that had a good mix of sea-food, poultry and meat. Wine – we went with a White Sangria for myself and a Sauvignon Blanc for Jayanta.</p>
+<p>For Starters, we ordered Prawns in Butter, Garlic  and chopped herbs – turned out to be extremely succulent, juicy and so tasty. We loved it, especially our little daughter, who loved it with the dip they had served.</p>
+<p>In the mains, Jayanta wanted his usual, Pork Ribs, while I scouted for anything with Lamb and ended up ordering Shredded Lamb Confit in a bed of lentils and colourful bell peppers. Both the dishes were awesome, barring the fact that they were very heavy and we struggled to finish them. Had to skip desserts as there was no room left!!</p>
+<p><strong>Final Word on at Indigo Deli in Bandra, Mumbai: </strong>Go go go! The service is excellent, food is excellent and so is the overall experience!</p>
+<div class="sharedaddy sd-sharing-enabled"></div>
+
+
+

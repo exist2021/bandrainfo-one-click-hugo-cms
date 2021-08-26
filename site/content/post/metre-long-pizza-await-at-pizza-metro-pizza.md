@@ -1,0 +1,23 @@
++++
+author = "Deepa Thomas"
+categories = ["featured", "FOOD/BEV", "ITALIAN", "PIZZA &amp; PASTA", "RESTAURANT REVIEWS"]
+date = 2014-01-02T21:25:57Z
+description = ""
+draft = false
+image = "__GHOST_URL__/content/images/wordpress/2014/01/img_4414_1.jpg"
+slug = "metre-long-pizza-await-at-pizza-metro-pizza"
+tags = ["featured", "FOOD/BEV", "ITALIAN", "PIZZA &amp; PASTA", "RESTAURANT REVIEWS"]
+title = "Metre long pizza await at Pizza Metro Pizza."
+
++++
+
+
+<p><p class="jetpack-slideshow-noscript robots-nocontent">This slideshow requires JavaScript.</p><div id="gallery-5264-14-slideshow" class="slideshow-window jetpack-slideshow slideshow-black" data-trans="fade" data-autostart="1" data-gallery="[{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2014\/01\/img_4409_1.jpg&quot;,&quot;id&quot;:&quot;5267&quot;,&quot;title&quot;:&quot;img_4409_1&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Image and content credits to https:\/\/allaboutfood.in\/.&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2014\/01\/img_4410_1.jpg&quot;,&quot;id&quot;:&quot;5268&quot;,&quot;title&quot;:&quot;img_4410_1&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Image and content credits to https:\/\/allaboutfood.in\/.&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2014\/01\/img_4411_1.jpg&quot;,&quot;id&quot;:&quot;5269&quot;,&quot;title&quot;:&quot;img_4411_1&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Image and content credits to https:\/\/allaboutfood.in\/.&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2014\/01\/img_4412_1.jpg&quot;,&quot;id&quot;:&quot;5270&quot;,&quot;title&quot;:&quot;img_4412_1&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Image and content credits to https:\/\/allaboutfood.in\/.&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2014\/01\/img_4414_1.jpg&quot;,&quot;id&quot;:&quot;5271&quot;,&quot;title&quot;:&quot;img_4414_1&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Image and content credits to https:\/\/allaboutfood.in\/.&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;https:\/\/bandra.info\/wp-content\/uploads\/2014\/01\/IMG_44142-610x300.jpg&quot;,&quot;id&quot;:&quot;5272&quot;,&quot;title&quot;:&quot;IMG_44142-610\u0026#215;300&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Image and content credits to https:\/\/allaboutfood.in\/.&quot;,&quot;itemprop&quot;:&quot;image&quot;}]" itemscope itemtype="https://schema.org/ImageGallery"></div></p>
+<p>[box]By <a href="https://allaboutfood.in/">Deepa Thomas</a>[/box]</p>
+<p>Yesterday I caught up with a friend at Pizza Metro Pizza, a newish pizza parlour which had opened on the same spot as the old popular watering hole – Club IX. Club IX was the default Friday hangout for my friends and colleagues in the 90s/ early 2000s and going there brought back a wave of nostalgia. And in tribute, there is a Club IX pizza on the menu of the restaurant – a nice touch.</p>
+<p><figure id="attachment_5276" aria-describedby="caption-attachment-5276" style="width: 182px" class="wp-caption alignright"><a href="https://allaboutfood.in/"><img loading="lazy" class="size-full wp-image-5276 " alt="Originally Reviewed at https://allaboutfood.in/" src="https://i0.wp.com/bandra.info/wp-content/uploads/2014/01/allabout_logo_cropped.png?resize=182%2C107&#038;ssl=1" width="182" height="107" data-recalc-dims="1" /></a><figcaption id="caption-attachment-5276" class="wp-caption-text">Originally Reviewed at <a href="https://allaboutfood.in/.">https://allaboutfood.in/.</a></figcaption></figure></p>
+<p>Cheerful, open space seating, friendly staff who were well trained enough to make recommendations and a giant pizza oven in the open kitchen takes centre stage. I ordered a Kiwi ice tea and the Pecorina pizza. It had goat cheese, red onion, mozzarella, basil and grana podana. I had the 12 inch size, thought they also have 1 and 3 metre longs if you are sharing. The pizza was delicious but I did find the crusts too thick. They have a chilli olive oil which I unfortunately forgot to try but looked yummy.</p>
+<p>I enjoyed the evening. And would definitely go back to try another one of their pizzas. The Pecorina was a recco by the restaurant staff. And I had my eye on a couple of others especially with my favorite mushroom ingredients. Do you like pizza, in which case do check Pizza Metro Pizza out.</p>
+
+
+
