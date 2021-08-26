@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Bandra Info"
+subtitle: Connecting you to your neighbours
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
