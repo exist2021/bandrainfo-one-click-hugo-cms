@@ -1,19 +1,30 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Bandra Info - The Neighbourhood Community Website
+subtitle: Connecting you back to your neighbours.
+image: img/979970_348329855290435_2131505819_o.jpeg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Our Mission?
+  text: "Bandra info wants to connect you to your neighbours. We think that due to
+    globalisation and social media, there has been an epidemic of loneliness
+    that has been leashed and the only way to reclaim your life back is to get
+    to know your neighbours. "
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: "A Neighbourly Hi! "
+  text: 'It is proven that just a simple neighbourly "Hi" can reduce the harmful
+    effects of loneliness and it is the most potent way to curb the isolating
+    effects of social media. '
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/bandrainfo_1625059339.jpg
+    text: We want to make community living possible. We want to use online forums to
+      get people to meet offline.
+  - image: img/bandrainfo_1627738720.jpg
+    text: We want the residents to learn about the Heritage of Bandra.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: We believe a lively culture will have transformative gifts as a general
+    feature – it will have groups like AA which address specific problems, it
+    will have methods of passing knowledge from old to young, it will have
+    spiritual teachings available at all levels of maturation and for the birth
+    of the spiritual self. And it will have artists whose creations are gifts
+    for the transformation of the race. - The Gift by Lewis Hyde
 ---
