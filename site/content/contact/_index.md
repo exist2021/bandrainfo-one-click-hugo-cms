@@ -3,7 +3,7 @@ title: Contact
 logo: img/person-drawing-symbols-coming-out-light-bulb-top-book.jpeg
 contact_entries:
   - heading: Location
-    text: Bandra, Mumbai- 400050
+    text: Bandra, Mumbai.
   - heading: Working hours
     text: Open on all days
 ---
