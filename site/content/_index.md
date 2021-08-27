@@ -13,8 +13,7 @@ intro:
     neighbourhood to connect around information and common interests.
 Community:
   - image: img/illustrations-coffee.svg
-    text: We will help you know your neighbours and participate in activities
-    in bandra.
+    text: We will help you know your neighbours and participate in activities in bandra.
   - image: /img/illustrations-coffee-gear.svg
     text: We will send you exclusive invites for all events happening in bandra.
 products:
