@@ -1,6 +1,6 @@
 ---
 title: Our Communites
-image: /img/products-jumbotron.jpg
+image: img/bandrainfo_1624111072_1.jpg
 heading: What we offer
 description: We want to make community living possible. We want to use online
   forums to get people to meet offline.
@@ -61,13 +61,16 @@ pricing:
       price: "0"
     - description: Great for avid drinkers, java-nsoving couples and bigger crowds
       items:
+        - Call Support
         - Special Offers & Deals
         - Telegram
       plan: Enthusiast
       price: "10"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
+        - Event Invites
         - All of the above
+        - Meetings
       plan: Committed
       price: "50"
 type: products
