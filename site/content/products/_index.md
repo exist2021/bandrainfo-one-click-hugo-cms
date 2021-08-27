@@ -1,6 +1,6 @@
 ---
 title: Our Communites
-image: img/bandrainfo_1624111072_1.jpg
+image: img/bandrainfo_1612365423.jpg
 heading: What we offer
 description: We want to make community living possible. We want to use online
   forums to get people to meet offline.
@@ -15,7 +15,7 @@ intro:
     - image: img/bandrainfo_1627391199.jpg
       text: |
         We want more public spaces to meet and greet each other 
-    - image: /img/illustrations-meeting-space.svg
+    - image: img/bandrainfo_1624111072_1.jpg
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
