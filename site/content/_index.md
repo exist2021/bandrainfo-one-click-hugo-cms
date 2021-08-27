@@ -2,7 +2,7 @@
 title: "Bandra Info"
 subtitle: Connecting you to your neighbours
 image: /img/home-jumbotron.jpg
-blurb: TEST
+blurb:
     heading: Why?
     text: "Bandra info is the community website for people of Bandra. Research shows that lonliness is now an epidemic. Research has also pointed out that if your neighbour say hi to you it plays a major role in reducing lonliness."
 intro:
