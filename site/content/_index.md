@@ -13,8 +13,17 @@ intro:
     attention from people who are helpless to be with us. "
   heading: Why is it an Epidemic?
   intro:
-    heading: "What we offer"
-    text: "Bandra info is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: What we offer
+    text: Bandra info is the ultimate spot for coffee lovers who want to learn about
+      their java’s origin and support the farmers that grew it. We take coffee
+      production, roasting and brewing seriously and we’re glad to pass that
+      knowledge to anyone.
+products:
+  - image: img/bandrainfo_1625059339.jpg
+    text: We want to make community living possible. We want to use online forums to
+      get people to meet offline.
+  - image: img/bandrainfo_1627391199.jpg
+    text: We want more public spaces to meet and greet each other
 values:
   text: We believe a lively culture will have transformative gifts as a general
     feature – it will have groups like AA which address specific problems, it
