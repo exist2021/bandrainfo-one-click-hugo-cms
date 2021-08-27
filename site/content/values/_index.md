@@ -11,9 +11,9 @@ values:
   - heading: "Knowledge "
     text: |
       It will have methods of passing knowledge from old to young.
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: img/bible-candle-old-oak-wooden-table.jpeg
   - heading: Spirituality
-    text: >+
+    text: >
       It will have spiritual teachings available at all levels of maturation and
       for the birth of the spiritual self.
     imageUrl: /img/bible-candle-old-oak-wooden-table.jpeg
