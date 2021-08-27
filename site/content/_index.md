@@ -23,17 +23,10 @@ Community:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
-products:
-  - image: img/bandrainfo_1625059339.jpg
-    text: Culture and Community
-  - image: img/bandrainfo_1627391199.jpg
-    text: Public Spaces and Events
 values:
   heading: Our values
-  text: We believe a lively culture will have transformative gifts as a general
-    feature – it will have groups that address specific problems, it will have
-    methods of passing knowledge from old to young, it will have spiritual
-    teachings available at all levels of maturation and for the birth of the
-    spiritual self. And it will have artists whose creations are gifts for the
-    transformation of the race. - The Gift by Lewis Hyde
+  text: Coffee is an amazing part of human culture but it has a dark side too –
+    one of colonialism and mindless abuse of natural resources and human lives.
+    We want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
