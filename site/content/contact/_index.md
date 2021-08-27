@@ -3,7 +3,8 @@ title: Contact
 logo: img/person-drawing-symbols-coming-out-light-bulb-top-book.jpeg
 contact_entries:
   - heading: Location
-    text: Bandra West, Mumbai- 400050
+    text: Bandra West,
+    Mumbai- 400050
   - heading: Working hours
     text: Open on all days
 ---
