@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: "Bandra West, Mumbai- 400050"
   - heading: Working hours
-    text: "We’re open on all days :)"
+    text: "We are open on all days"
 ---
 
 We’d love to get in touch with you and hear your ideas and
@@ -15,3 +15,4 @@ is valuable for us.
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
 You can also use the form below for any inquiries. Don’t be shy, drop us a line!
+
