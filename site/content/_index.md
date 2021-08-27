@@ -11,7 +11,7 @@ intro:
   heading: How we do it?
   text: We use social media and news and information to connect residents from the
     neighbourhood to connect around information and common interests.
-products:
+Community:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
