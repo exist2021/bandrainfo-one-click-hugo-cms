@@ -13,16 +13,10 @@ intro:
     neighbourhood to connect around information and common interests.
 Community:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: We will help you know your neighbours and participate in activities
+    in bandra.
   - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: We will send you exclusive invites for all events happening in bandra.
 products:
   - image: img/bandrainfo_1625059339.jpg
     text: "Learning about local culture and history. "
@@ -36,4 +30,5 @@ values:
     spiritual teachings available at all levels of maturation and for the birth
     of the spiritual self. And it will have artists whose creations are gifts
     for the transformation of the race. - The Gift by Lewis Hyde
+    - image: img/goals-target-aspiration-perforated-paper-bullseye.jpeg
 ---
