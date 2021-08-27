@@ -1,11 +1,11 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/person-drawing-symbols-coming-out-light-bulb-top-book.jpeg
 contact_entries:
   - heading: Location
-    text: "Bandra West, Mumbai- 400050"
+    text: Bandra West, Mumbai- 400050
   - heading: Working hours
-    text: "We are open on all days"
+    text: We are open on all days
 ---
 
 We’d love to get in touch with you and hear your ideas and
