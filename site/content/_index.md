@@ -12,7 +12,9 @@ intro:
     around us. This has made us slaves of our phones, constantly craving for
     attention from people who are helpless to be with us. "
   heading: Why is it an Epidemic?
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  intro:
+    heading: "What we offer"
+    text: "Bandra info is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 values:
   text: We believe a lively culture will have transformative gifts as a general
     feature – it will have groups like AA which address specific problems, it
