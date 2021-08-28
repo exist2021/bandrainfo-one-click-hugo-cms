@@ -2,7 +2,7 @@
 title: Values
 image: /img/goals-target-aspiration-perforated-paper-bullseye.jpeg
 values:
-  - heading: A lively culture
+  - heading: A Lively Culture
     text: A lively culture will have transformative gifts as a general feature!
     imageUrl: /img/repetition-rock-music-band-electric-guitar-player-drummer.jpeg
   - heading: Groups which address specific problems
