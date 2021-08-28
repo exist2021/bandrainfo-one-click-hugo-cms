@@ -1,5 +1,5 @@
 ---
-title: Bandra Info - The Neighbourhood Website
+title: Bandra Info
 subtitle: Connecting you back to your neighbours.
 image: img/979970_348329855290435_2131505819_o.jpeg
 blurb:
