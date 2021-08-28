@@ -2,10 +2,10 @@
 title: Contact
 logo: img/person-drawing-symbols-coming-out-light-bulb-top-book.jpeg
 contact_entries:
-  - heading: Location
-    text: Bandra.
-  - heading: Working hours
-    text: Open on all days
+  - heading: email
+    text: manoj@bandra.info
+  - heading: whatsapp
+    text: 9892334681
 ---
 
 We’d love to get in touch with you and hear your ideas and
