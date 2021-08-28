@@ -18,7 +18,7 @@ products:
     text: We want to make community living possible. We want to use online forums to
       get people to meet offline.
   - image: img/bandrainfo_1627738720.jpg
-    text: We want the residents to learn about the Heritage of Bandra.
+    text: We want the residents to learn about the history and heritage of Bandra.
 values:
   heading: Our values
   text: We believe a lively culture will have transformative gifts as a general
@@ -26,5 +26,5 @@ values:
     will have methods of passing knowledge from old to young, it will have
     spiritual teachings available at all levels of maturation and for the birth
     of the spiritual self. And it will have artists whose creations are gifts
-    for the transformation of the race. - The Gift by Lewis Hyde
+    for the transformation of the race.
 ---
