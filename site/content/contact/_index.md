@@ -3,7 +3,7 @@ title: Contact
 logo: img/person-drawing-symbols-coming-out-light-bulb-top-book.jpeg
 contact_entries:
   - heading: email
-    text: manoj@bandra.info
+    text: manoj@manojnayak.com
 ---
 
 We’d love to get in touch with you and hear your ideas and
