@@ -3,7 +3,7 @@ title: Bandra Info
 subtitle: Connecting you back to your neighbours.
 image: img/979970_348329855290435_2131505819_o.jpeg
 blurb:
-  heading: Our Mission?
+  heading: Our Mission
   text: "Bandra info wants to connect you to your neighbours. We think that due to
     globalisation and social media, there has been an epidemic of loneliness
     that has been leashed and the only way to reclaim your life back is to get
