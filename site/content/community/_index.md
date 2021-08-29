@@ -1,5 +1,5 @@
 ---
-title: Our Communites
+title: Our Communities
 image: img/bandrainfo_1612365423.jpg
 heading: What we offer
 description: We want to make community living possible. We want to use online
@@ -14,7 +14,7 @@ intro:
         We want people to jointly learn about the Heritage of Bandra.
     - image: img/bandrainfo_1627391199.jpg
       text: |
-        We want more public spaces to meet and greet each other 
+        We want more public spaces to meet and greet each other
     - image: img/bandrainfo_1624111072_1.jpg
       text: |
         Clean and Efficient Public Life.
@@ -25,7 +25,7 @@ main:
   heading: Communities with Integrity
   description: >
     We believe we can achieve an ideal society and inculcate a sense of
-    Integrity in our citizens. 
+    Integrity in our citizens.
   image1:
     alt: Communities with Integrity
     image: img/bandrainfo_1627738720.jpg
