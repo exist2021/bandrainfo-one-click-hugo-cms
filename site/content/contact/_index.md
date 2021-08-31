@@ -11,5 +11,3 @@ questions. We strive to grow and improve constantly and your feedback
 is valuable for us.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below which we are doubtful whether it is working. So if you are really desperate to hear back send an email.
