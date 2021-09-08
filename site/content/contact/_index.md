@@ -2,8 +2,8 @@
 title: Contact
 logo: img/person-drawing-symbols-coming-out-light-bulb-top-book.jpeg
 contact_entries:
-  - heading: email
-    text: manoj@bandra.info
+  - heading: Say Hi
+    text: Drop a message
 ---
 
 We’d love to get in touch with you and hear your ideas and
