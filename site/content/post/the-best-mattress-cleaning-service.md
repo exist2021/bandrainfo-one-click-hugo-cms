@@ -1,15 +1,19 @@
-+++
-author = "Heer Pamnani"
-categories = ["SERVICES"]
-date = 2018-12-15T12:49:49Z
-description = ""
-draft = false
-image = "__GHOST_URL__/content/images/wordpress/2018/12/powaiinfoflufamily_e8ee7bfe5d638a71e00c7e46ee3ef9d0_2000.png"
-slug = "the-best-mattress-cleaning-service"
-tags = ["SERVICES"]
-title = "Sanitization services for Mattresses, Pillows and Sofas with Germ Busters"
-
-+++
+---
+draft: false
+author: Heer Pamnani
+slug: the-best-mattress-cleaning-service
+title: Sanitization services for Mattresses, Pillows and Sofas with Germ Busters
+date: 2018-12-15T12:49:49.000Z
+tags:
+  - SERVICES
+description: Germ Busters is unique, innovative and genuine in its approach. It
+  is an instant hit among the urban population who require fast and efficient
+  sanitization services. It promotes consistent immunity, boosts mood and
+  overall health.
+image: __GHOST_URL__/content/images/wordpress/2018/12/powaiinfoflufamily_e8ee7bfe5d638a71e00c7e46ee3ef9d0_2000.png
+categories:
+  - SERVICES
+---
 
 
 <p>We are living in hard times. The average age of a person is reduced by 1.7 years in India courtesy of the bad air quality index and ever increasing pollution emitted by vehicles, biological and industrial waste.  It all settles indoors via the window panes, invisible gases, carbon monoxide, pesticides and so on form the hazardous dust and particles at home. An alarming fact indeed! Trust Germ Busters to come to your rescue with aid in mattress cleaning. </p>
